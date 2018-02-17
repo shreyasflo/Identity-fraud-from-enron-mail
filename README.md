@@ -1,2 +1,1 @@
-# Identity-fraud-from-enron-mail
-In this project, I played detective, and put my machine learning skills to use by building an algorithm to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset.
+When I was making my classifier, I created three pickle files (my_dataset.pkl, my_classifier.pkl, my_feature_list.pkl). The project was tested using the tester.py script provided by Udacity. The answers to the response questions is also present. 
